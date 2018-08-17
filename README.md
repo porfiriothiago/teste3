@@ -1,3 +1,3 @@
 # Deleção de JOGOS
-# BLA BNLA
-# BLA
+* gta
+* good of war
