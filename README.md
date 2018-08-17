@@ -1,3 +1,3 @@
-# Deleção de JOGOS
-# BLA BNLA
-# BLA
+# Relação de JOGOS
+* [jOGADOR 1]
+* [jOGADOR 2]
