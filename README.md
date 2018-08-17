@@ -1,3 +1,3 @@
-# Deleção de JOGOS
+# Relação de JOGOS
 * gta
 * good of war
